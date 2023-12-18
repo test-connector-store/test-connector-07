@@ -1,0 +1,9 @@
+{
+  "name": "Connector 07",
+  "owner": "WSO2",
+  "category": "Connector",
+  "documentationUrl": "https://github.com/test-connector-store/test-connector-07/edit/main/.connector-store/meta.json",
+  "description": "This is the Connector 07",
+  "status": "Active",
+  "label": ["Tag 123", "Tag 456"]
+}
