@@ -1,9 +1,22 @@
 {
-  "name": "Connector 07",
-  "owner": "WSO2",
-  "category": "Connector",
-  "documentationUrl": "https://github.com/test-connector-store/test-connector-07/edit/main/.connector-store/meta.json",
-  "description": "This is the Connector 07",
+  "name": "Facebook Graph API Connector",
+  "owner": "Meta Platforms, Inc. (formerly Facebook)",
+  "category": "Social Media",
+  "documentationUrl": "https://developers.facebook.com/docs/graph-api/",
+  "description": "Integrate Facebook Graph API with your applications to access and interact with Facebook data. Retrieve user information, post updates, and manage pages seamlessly, enhancing your app's social media capabilities.",
   "status": "Active",
-  "labels": ["Tag 12", "Tag 45"]
+  "labels": [
+    "Integration",
+    "Connector",
+    "Social Media"
+  ],
+  "releases": [
+    {
+      "tagName": "v4.0",
+      "products": [
+        "EI 7.2.0",
+        "IS 5.0.0"
+      ]
+    }
+  ]
 }
